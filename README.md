@@ -7,4 +7,4 @@ micka : maj new blalbla
 
 Avec modifs depuis github pour le pull !!
 xxx
-mais aussi depuis le local !!
+mais aussi depuis le local !! avec git aussi : c'est cool !
